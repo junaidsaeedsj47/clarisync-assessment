@@ -1,0 +1,1 @@
+//here goes the implementation of abstract class like all API calling/fetching data etc.
